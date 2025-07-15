@@ -1,0 +1,9 @@
+com\sdcs\sdcs\repository\StudentRepository.class
+com\sdcs\sdcs\SdcsApplication.class
+com\sdcs\sdcs\service\StudentService.class
+com\sdcs\sdcs\service\UserService.class
+com\sdcs\sdcs\model\Student.class
+com\sdcs\sdcs\model\User.class
+com\sdcs\sdcs\controller\UserController.class
+com\sdcs\sdcs\controller\StudentController.class
+com\sdcs\sdcs\repository\UserRepository.class
